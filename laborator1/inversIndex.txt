@@ -1,0 +1,12 @@
+copil = {D:\Facultate\AN 4 SEM 2\laborator1\WD\new\http\dir\x5.txt=1}
+gica = {D:\Facultate\AN 4 SEM 2\laborator1\WD\new\http\dir\new\x6.txt=1}
+ana = {D:\Facultate\AN 4 SEM 2\laborator1\WD\new\x3.txt=1, D:\Facultate\AN 4 SEM 2\laborator1\WD\new\http\x4.txt=3, D:\Facultate\AN 4 SEM 2\laborator1\WD\x1.txt=1, D:\Facultate\AN 4 SEM 2\laborator1\WD\new\http\dir\x5.txt=2}
+below = {D:\Facultate\AN 4 SEM 2\laborator1\WD\x2.txt=1}
+mere = {D:\Facultate\AN 4 SEM 2\laborator1\WD\new\x3.txt=1, D:\Facultate\AN 4 SEM 2\laborator1\WD\new\http\x4.txt=2, D:\Facultate\AN 4 SEM 2\laborator1\WD\new\http\dir\x5.txt=2}
+have = {D:\Facultate\AN 4 SEM 2\laborator1\WD\new\http\x4.txt=1}
+ha = {D:\Facultate\AN 4 SEM 2\laborator1\WD\new\x3.txt=1, D:\Facultate\AN 4 SEM 2\laborator1\WD\new\http\x4.txt=1, D:\Facultate\AN 4 SEM 2\laborator1\WD\new\http\dir\x5.txt=1}
+undercut = {D:\Facultate\AN 4 SEM 2\laborator1\WD\x2.txt=1}
+madrid = {D:\Facultate\AN 4 SEM 2\laborator1\WD\x1.txt=1}
+andrei = {D:\Facultate\AN 4 SEM 2\laborator1\WD\new\http\dir\new\x6.txt=1}
+wow = {D:\Facultate\AN 4 SEM 2\laborator1\WD\x1.txt=1}
+cal = {D:\Facultate\AN 4 SEM 2\laborator1\WD\new\http\x4.txt=1}

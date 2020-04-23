@@ -1,0 +1,6 @@
+D:\Facultate\AN 4 SEM 2\laborator1\WD\x1.txt,D:\Facultate\AN 4 SEM 2\laborator1\WD\index.html
+D:\Facultate\AN 4 SEM 2\laborator1\WD\x2.txt,D:\Facultate\AN 4 SEM 2\laborator1\WD\index.html
+D:\Facultate\AN 4 SEM 2\laborator1\WD\new\x3.txt,D:\Facultate\AN 4 SEM 2\laborator1\WD\new\index.html
+D:\Facultate\AN 4 SEM 2\laborator1\WD\new\http\x4.txt,D:\Facultate\AN 4 SEM 2\laborator1\WD\new\http\index.html
+D:\Facultate\AN 4 SEM 2\laborator1\WD\new\http\dir\x5.txt,D:\Facultate\AN 4 SEM 2\laborator1\WD\new\http\dir\index.html
+D:\Facultate\AN 4 SEM 2\laborator1\WD\new\http\dir\new\x6.txt,D:\Facultate\AN 4 SEM 2\laborator1\WD\new\http\dir\new\index.html
